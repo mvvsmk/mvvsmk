@@ -70,8 +70,8 @@ Skills: C/Mordern C++/Python/Django
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvvsmk&show_icons=true&theme=tokyonight&count_private=true"/>
 </a>
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mvvsmk&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true)  
+ 
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mvvsmk&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
