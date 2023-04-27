@@ -41,14 +41,14 @@ Skills: C/Mordern C++/Python/Django
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://camo.githubusercontent.com/078d575015caef2fa0605651bb5f9c036eece86b209339779671526c3639c25d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" alt="django" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="cplusplus" width="40" height="40"/></a>
-<br/>
-
+<br>
+<br>
 
 
 <!-- 
