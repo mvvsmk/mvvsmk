@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   
 **Personal Tech Updates**
 
-- 🌱 I’m currently learning embedded C, moddern C++.
-- 🔭 I’m currently working on C/C++ and Django Projects.
-- 👯 I’m looking to collaborate on C/C++ and Django Projects.
-- 💬 Looking for guidance on CPU architecture and RTOS design.
+- 🌱 I’m currently learning Compiler Design.
+- 🔭 I’m currently working on C/C++ and, Rust Projects.
+- 👯 I’m looking to collaborate on C/C++, Rust and, Django Projects.
+- 💬 Looking for guidance on Compiler Design, LLVM infrastructure MLIR in particular.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : mvvsmanojkumar@gmail.com
 
