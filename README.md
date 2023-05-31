@@ -71,7 +71,9 @@ Skills: C/Mordern C++/Python/Django
 </a>
 </p>
  
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mvvsmk&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mvvsmk&bg_color=0D1117&color=fff&line=58A6FF&point=FFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mvvsmk&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br>
 
