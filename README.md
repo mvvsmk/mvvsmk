@@ -21,10 +21,9 @@ Here are some ideas to get you started:
   
 **Personal Tech Updates**
 
-- 🌱 I’m currently learning Compiler Design.
+- 🌱 I’m currently learning MLIR.
 - 🔭 I’m currently working on C/C++ and, Rust Projects.
-- 👯 I’m looking to collaborate on C/C++, Rust and, Django Projects.
-- 💬 Looking for guidance on Compiler Design, LLVM infrastructure MLIR in particular.
+- 👯 I’m looking to collaborate on C/C++, Rust and, Compiler Related Projects.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Contact Me : mvvsmanojkumar@gmail.com
 
@@ -35,13 +34,15 @@ Skills: C/Mordern C++/Python/Django
 -->
 **Languages and Tools:**  
 
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" alt="llvm" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://camo.githubusercontent.com/078d575015caef2fa0605651bb5f9c036eece86b209339779671526c3639c25d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646a616e676f2e706e67" alt="django" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="cplusplus" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -67,7 +68,6 @@ Skills: C/Mordern C++/Python/Django
 <p align="center">
 <a href="https://github.com/mvvsmk">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mvvsmk&theme=black-ice"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvvsmk&show_icons=true&theme=tokyonight&count_private=true"/>
 </a>
 </p>
  
@@ -77,4 +77,3 @@ Skills: C/Mordern C++/Python/Django
 
 <br>
 
-![Profile views](https://gpvc.arturio.dev/mvvsmk)  
